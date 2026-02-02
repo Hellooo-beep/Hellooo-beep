@@ -99,14 +99,6 @@ A simple yet functional to-do list application demonstrating Java fundamentals a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellooo-beep&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellooo-beep&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
 
 ## 💬 Let's Connect!
 
