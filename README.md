@@ -105,7 +105,7 @@ A simple yet functional to-do list application demonstrating Java fundamentals a
 I'm always interested in collaborating on exciting projects, learning new technologies, and connecting with other developers. Feel free to reach out!
 
 **📧 Email:** ritikajoshi599@gmail.com  
-**💼 LinkedIn:** https://linkedin.com/in/your-linkedin
+**💼 LinkedIn:** linkedin.com/in/ritika-js
 **💻 GitHub:** github.com/Hellooo-beep
 
 ---
